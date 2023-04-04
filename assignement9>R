@@ -1,0 +1,8 @@
+# Create a matrix
+my_matrix <- matrix(1:9, nrow=3, ncol=3)
+
+# Convert the matrix to a list
+my_list <- as.list(my_matrix)
+
+# Print the list
+print(my_list)
